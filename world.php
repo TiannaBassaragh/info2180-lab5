@@ -59,7 +59,7 @@ else:
         <tr>
           <th>Country Name</th>
           <th>Continent</th>
-          <th>Independence Year</th>
+          <th>Independence</th>
           <th>Head of State</th>
         </tr>
       </thead>
